@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/javascripts/index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"javascripts.d71fa668.js","sourceRoot":"..","sourcesContent":["console.log(\"helo\");"]}
