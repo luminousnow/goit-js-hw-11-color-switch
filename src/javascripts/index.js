@@ -7,7 +7,7 @@ const colors = [
   '#795548',
 ];
 
-const min = Number(colors.length - colors.length);
+const min = 0;
 const max = Number(colors.length - 1);
 
 const refs = {
